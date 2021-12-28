@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dgc-techie
+- 👋 Hi, I’m Delli
 - 👀 I’m interested in new technologies
-- 🌱 I have 7+ years of experience in software field.
+- 🌱 I have 7+ years of experience in software development.
 - 📫 You can reach me via email(delliganeshc@gmail.com)
 
 <!---
